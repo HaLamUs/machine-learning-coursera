@@ -9,3 +9,6 @@ https://www.coursera.org/learn/machine-learning
 
 # my feeling
  :laughing: :raised_hands:
+ 
+# author
+Lam Ha
